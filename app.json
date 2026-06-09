@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Ordering System",
+    "slug": "ordering-system-app",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait",
+    "primaryColor": "#000000",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.orderingsystem.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "68381af4-0634-412d-ae93-e82f7b010cb3"
+      }
+    },
+    "owner": "heyyuuoy"
+  }
+}

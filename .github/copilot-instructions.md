@@ -1,0 +1,5 @@
+- This workspace contains a React Native ordering app with a Google Cloud / Firebase backend.
+- Use `npm install` in the project root to install mobile app dependencies.
+- Update `src/services/firebase.ts` with your Firebase configuration values.
+- Use Expo commands (`npm start`, `npm run android`, `npm run ios`) to run the app locally.
+- Backend functions are in `functions/`; deploy them with Firebase or Google Cloud functions.
